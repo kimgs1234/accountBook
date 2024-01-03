@@ -47,3 +47,10 @@ Tool : GitHub , Visual Studio Code  <br>
 ### 페이지 구성
 ![가계부](https://github.com/kimks1234/accountBook/assets/142865411/28f63a92-57e5-4c17-893c-0b8ad705fbd3)
 
+### 문제 및 해결
+상황: 깃 허브 페이지에 결과물을 올렸는데 앱 안의 내용이 하나도 보이지 않음
+문제확인: 라우터를 설정하면 앱 안의 내용이 보이지 않을 수 있다는 사실을 깨달음
+해결: 프론트엔드 최상위 index.js 앱을 감싸고 있는 BrouserRouter 에
+```<BrowserRouter basename={process.env.PUBLIC_URL}>``` 코드를 작성하고 다시 push와npm run build를 하여 문제를 해결함
+
+
