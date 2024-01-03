@@ -1,0 +1,74 @@
+@import url(../fonts/pretendardvariable.css);
+
+/* 제목 */
+.title {
+  color: #f64345;
+  text-align: left;
+  margin-left: 20px;
+  font-size: 2rem;
+}
+.input {
+  border: none;
+  text-align: right;
+  width: 245px;
+}
+/* 흰색 영역 세개 */
+.money {
+  background-color: #fff;
+  width: 80%;
+  height: 40px;
+  margin: 15px auto;
+  border-radius: 20px;
+  padding: 10px;
+  color: #9e9e9e;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+/* 흰색 둘째 셋쨰 */
+.titlemoney {
+  margin-left: 20px;
+  font-size: 1.2rem;
+}
+/* 캘린더 */
+.Calendar {
+  border: none;
+  font-family: Pretendard Variable, sans-serif;
+  font-weight: bold;
+}
+
+.join {
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  width: 100px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 1.3rem;
+  background-color: #f64545;
+  cursor: pointer;
+  margin-right: 30px;
+}
+.cancel {
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  width: 100px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 1.3rem;
+  background-color: #cacaca;
+  cursor: pointer;
+}
+.imgContainer {
+  display: flex;
+  width: 80%;
+  background-color: #fff;
+  margin: 25px auto;
+  padding: 10px;
+  border-radius: 25px;
+}
+.imgContainer img {
+  height: 105px;
+}
