@@ -38,3 +38,7 @@ Tool : GitHub , Visual Studio Code  <br>
 ### 기능적 요구 사항
 ![기능적요구사항](https://github.com/kimks1234/accountBook/assets/142865411/b92088f1-eb25-417a-9acc-7098f9a88da4)
 
+### 워크플로우
+![1703225689702-62aa3ee4-fa60-407b-a569-11da06bb2740_1](https://github.com/kimks1234/accountBook/assets/142865411/a46dbde5-fe23-4a40-9e23-c278b1b12f96)
+
+
