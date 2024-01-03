@@ -41,4 +41,7 @@ Tool : GitHub , Visual Studio Code  <br>
 ### 워크플로우
 ![1703225689702-62aa3ee4-fa60-407b-a569-11da06bb2740_1](https://github.com/kimks1234/accountBook/assets/142865411/a46dbde5-fe23-4a40-9e23-c278b1b12f96)
 
+### 디렉토리 구조
+![디렉토리구조](https://github.com/kimks1234/accountBook/assets/142865411/bad94bbf-01d7-4c10-a011-7ca3512184ce)
+
 
