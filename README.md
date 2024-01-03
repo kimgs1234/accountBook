@@ -27,7 +27,7 @@
 Tool : GitHub , Visual Studio Code  <br>
 웹 화면:  CSS, JavaScript<br>
 데이터베이스: MongoDB<br>
-사용 라이브러리: react , react-calendar react-router-dom rechart.js , express.js<br>
+사용 라이브러리: react , react-calendar, react-router-dom, rechart.js , express.js<br>
 
 ## 담당업무
 * 프로젝트 리더
