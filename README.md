@@ -44,4 +44,6 @@ Tool : GitHub , Visual Studio Code  <br>
 ### 디렉토리 구조
 ![디렉토리구조](https://github.com/kimks1234/accountBook/assets/142865411/bad94bbf-01d7-4c10-a011-7ca3512184ce)
 
+### 페이지 구성
+![가계부](https://github.com/kimks1234/accountBook/assets/142865411/28f63a92-57e5-4c17-893c-0b8ad705fbd3)
 
