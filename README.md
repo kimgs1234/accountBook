@@ -35,3 +35,6 @@ Tool : GitHub , Visual Studio Code  <br>
 * 로그인/회원가입 MongoDB 연결
 
 ## 프로젝트 내용
+### 기능적 요구 사항
+![기능적요구사항](https://github.com/kimks1234/accountBook/assets/142865411/b92088f1-eb25-417a-9acc-7098f9a88da4)
+
