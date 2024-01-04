@@ -56,7 +56,7 @@ Tool : GitHub , Visual Studio Code  <br>
 
 #### 두번째 문제
 * 상황: 등록페이지 라우터에서 메인 라우터로 데이터가 전송이 되어야 하는데 저장을 눌러도 데이터가 전송이 안되는 상황 <br>
-* 해결: 배운 것 중에 Context API가 생각이나 context를 통해 데이터상태관리를 하여 데이터를 다른 라우터에도 공유가 되게 함
+* 해결: 배운 것 중에 Context API가 생각이나 context를 통해 데이터상태관리를 하여 데이터를 다른 라우터에도 공유가 되게 함 <br>
 ![context](https://github.com/kimgs1234/accountBook/assets/142865411/4fd0f760-c9ee-42a7-99b5-75261a6f5977)
 
 #### 세번째 문제
