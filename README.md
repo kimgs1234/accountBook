@@ -58,6 +58,38 @@ Tool : GitHub , Visual Studio Code  <br>
 * 상황: 등록페이지 라우터에서 메인 라우터로 데이터가 전송이 되어야 하는데 저장을 눌러도 데이터가 전송이 안되는 상황 <br>
 * 해결: 배운 것 중에 Context API가 생각이나 context를 통해 데이터상태관리를 하여 데이터를 다른 라우터에도 공유가 되게 함
 
+#### 세번째 문제
+* 상황: react-chartjs-2 로 바모양 차트와 도넛모양 차트를 넣으려고 하는데 차트가 화면에 안나옴
+* 해결 : 구글링을 통해 블로그도 찾아보면서 해결해 보려 하였지만 해결을 못하여서 인공지능의 활용을 통해
+  ``` react
+   <Doughnut
+          data={{
+            labels: categoryLabels,
+            datasets: [
+              {
+                data: categoryTotal,
+                backgroundColor: doughnutColors,
+              },
+            ],
+          }}
+          options={{
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                display: true,
+                position: "bottom",
+              },
+              layout: {
+                padding: {
+                  bottom: 150,
+                },
+              },
+            },
+          }}
+          ```
+  의 태그를 작성하여서 해결함 내가 option 하고 data의 활용이 미숙해서 해결 못하던 것 이었음 
+
 ## 프로젝트 완료 리뷰
 ### 아쉬운 부분
 
