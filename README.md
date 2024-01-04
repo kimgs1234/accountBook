@@ -87,7 +87,8 @@ Tool : GitHub , Visual Studio Code  <br>
               },
             },
           }}
-          ```
+
+  ```
   의 태그를 작성하여서 해결함 내가 option 하고 data의 활용이 미숙해서 해결 못하던 것 이었음 
 
 ## 프로젝트 완료 리뷰
