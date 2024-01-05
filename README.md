@@ -35,7 +35,7 @@ MongoDB를 이용해 회원가입과 로그인을 구현하고 앱을 사용 하
 * 웹 프레임워크 : Express
 * 세션 관리 : Express-session
 * 비밀번호 해싱 : sha-256
-* 
+  
 ### 데이터 베이스
 * 데이터 베이스 : MongoDB
 
