@@ -120,5 +120,7 @@ MongoDB를 이용해 회원가입과 로그인을 구현하고 앱을 사용하�
 
 그리고 처음 사용해 보는 것도 결국에는 구글링과 인공지능을 활용하면 많이 도움이 되는구나 느꼈다. <br>
 
+특히 react-calendar 같은 라이브러리나 rechart 같은 라이브러리는 처음 써봄에도 어느정도 익숙해 졌고 react-router-dom 을 적용하는것도 어렵지 않게 할 수 있게 되었다. <br>
+
 ## 프로젝트 바로가기
 <a href="https://port-0-accountlogin-hkty2alqemuiae.sel4.cloudtype.app/" target="_blank">가계부 사이트</a>
