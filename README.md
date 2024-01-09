@@ -76,7 +76,7 @@ MongoDB를 이용해 회원가입과 로그인을 구현하고 앱을 사용하�
 #### 세번째 문제
 * 상황: react-chartjs-2 로 바모양 차트와 도넛모양 차트를 넣으려고 하는데 차트가 화면에 안나옴
 * 해결 : 구글링을 통해 블로그도 찾아보면서 해결 해보려 하였지만 해결을 못하여서 인공지능의 활용을 통해
-  ``` react
+  ``` javascript
    <Doughnut
           data={{
             labels: categoryLabels,
